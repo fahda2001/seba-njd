@@ -1,23 +1,13 @@
 <table>
   
   <tr>
-    <td>Developers:</td>
-    <td>Fahda Almazyed , 
- Lujain Alruwais ,
- Reema Alowerdi ,
-kayan alshehri  
-</td>
+    <td>Developers:</td>   </tr>
+    <tr> <td>Fahda Almazyed    </td> </tr>
+ <tr> <td> Lujain Alruwais  </td> </tr>
+ <tr>  <td> Reema Alowerdi   </td></tr>
+ <tr>   <td> kayan alshehri   </td> </tr>
+
     
-  </tr>
-  <tr>
-    <td>Supervised by :</td>
-    <td>Dr. Balsam AlSugair and Dr.Manal Albahlal </td>
-  
-  </tr>
-  <tr>
-    <td>Scrum Master (SM): </td>
-    <td>Dr.  Maha Alyahya  </td>
-   
   </tr>
  
   
