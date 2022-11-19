@@ -1,0 +1,227 @@
+/* CSS Document */
+body {
+	font-size: 22px;
+	background: url("imgs/background1.jpg");
+	background-size: cover;
+}
+#content {
+	width: 990px;
+	max-width: 990px;
+	min-height: 570px;
+	background: #F4F4F4;
+	margin: 100px auto;
+	border-radius: 20px;
+	overflow: hidden
+}
+header img {
+float: left;
+width:100px;
+height: 9100x;
+border-radius: 20px;
+padding: 2px;
+  
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  
+  font-size: 1em;
+  flex-wrap: wrap;
+  width: 100%;
+  
+}
+
+nav.topnav a {
+  
+  padding: 8px 25px;
+	text-decoration: none;
+	font-size: 17px;
+	background: #C69A6F;
+	border-radius: 20px;
+	color: aliceblue;
+	
+	
+}
+
+nav.topnav a:hover {
+  background-color: #C69A6F;
+  color: black;
+}
+nav.topnav {
+  overflow: hidden;
+  background:#C69A6F;
+  
+  
+}
+
+#logo {
+	width:100px;
+	height: 100px;
+	border-radius: 20px;
+}
+
+
+.navs {
+	list-style: none;
+}
+
+.navs li {
+	display: inline-table;
+}
+
+.navs li a {
+	text-align: center;
+	padding: 10px 30px;
+	text-decoration: none;
+	font-size: 20px;
+	background: #C69A6F;
+	border-radius: 20px;
+	color: aliceblue
+}#logo {
+	width:100px;
+	height: 100px;
+	border-radius: 20px;
+}
+
+
+a {
+	color: #C69A6F;
+	font-size: 20px;
+}
+h1 {
+	color: #C69A6F;
+	font-size: 35px;
+	margin-top: 15px;
+}
+h2 {
+	color: #C69A6F;
+}
+#EmpButton {
+	background: #8b5a2b;
+	line-height: 30px;
+	padding: 20px 40px;
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+}
+#ManagerButton {
+	background: #C69A6F;
+	line-height: 30px;
+	padding:20px 40px;
+	font-size: 24px;
+	color: black;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+#button {
+	background: #C69A6F;
+	line-height: 30px;
+	padding:10px 23px;
+	font-size: 17px;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	outline: none;
+	border: none;
+}
+
+
+input[type=text], select, textarea, input[type=file], input[type=password] {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#requests {
+	font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#requests td, #requests th {
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+
+#requests th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: left;
+  background-color: #8b5a2b;
+  color: white;
+font-weight: 100;
+}
+
+#requests a {
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+label {
+	background-color: #04AA6D;
+	padding: 5px 10px;
+	color: white;
+	border-radius: 4px;
+}
+
+#nav-logo {
+	width: 70px;
+	height: 70px;
+	padding: 0px;
+	margin: 0px 20px -20px 20px;
+	border: 0px;
+	border-radius: 20px;
+}
+
+#ok {
+	padding: 10px 10px;
+	display: none;
+	width: 50%;
+	background: #16B08A;
+	color: #FFF;
+	border-radius: 20px;
+    text-align: center;
+    margin: 5px auto;
+}
+
+#not {
+	padding: 10px 10px;
+	display: block;
+	width: 50%;
+	background: #C21733;
+	color: #FFF;
+	border-radius: 20px;
+}
+
+#Approved {
+	background-color: #3498db;
+	padding: 5px 10px;
+	color: white;
+	border-radius: 4px;
+}
+
+#Declined {
+	background-color: #d35400;
+	padding: 5px 10px;
+	color: white;
+	border-radius: 4px;
+}
+
+#btns  a {
+    border: 1px solid #EEE;
+    padding: 3px 15px;
+    background: #CCC;
+    color: #000;
+    margin: 2px 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+footer {
+  text-align: center;
+  background-color: #C69A6F;
+}
